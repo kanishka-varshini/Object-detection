@@ -1,4 +1,4 @@
-# Object-detection
+# Eye-detection
 
 This python script utilizes OpenCV to detect and track objects (eyes, in this case) using the device camera in real time. It uses a pre-trained object detection model to identify eyes within each frame and draws bounding boxes around them for visualization.
 
