@@ -8,5 +8,5 @@ Instructions:
 3. Download the Haar Cascade dataset to detect eyes imported from https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_eye.xml 
 4. Download the provided Python script.
 5. Place the Python script and the dataset file in the same directory.
-6. Run the script using the command: python object_detection.py
+6. Run the script using the command: python detecteye.py
 7. Press 'q' to exit the application.
